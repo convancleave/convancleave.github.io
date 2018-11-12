@@ -1,6 +1,14 @@
 @charset "utf-8";
 @import "../node_modules/bulma/bulma.sass";
 
+.container {
+	line-height: 1.5;
+}
+
+.title.is-4 {
+	line-height: 1.5;
+}
+
 .title-container {
 	padding: 100px;
 }

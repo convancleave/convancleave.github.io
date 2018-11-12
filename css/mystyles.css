@@ -6746,6 +6746,12 @@ label.panel-block {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
+.container {
+  line-height: 1.5; }
+
+.title.is-4 {
+  line-height: 1.5; }
+
 .title-container {
   padding: 100px; }
 
