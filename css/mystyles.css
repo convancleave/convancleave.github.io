@@ -6752,6 +6752,11 @@ label.panel-block {
 .title.is-4 {
   line-height: 1.5; }
 
+span.is-size-4 {
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: 1.5px; }
+
 .title-container {
   padding: 100px; }
 
